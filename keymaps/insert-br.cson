@@ -1,0 +1,4 @@
+# keymap
+
+'atom-text-editor':
+  'ctrl-enter': 'insert-br:insert'

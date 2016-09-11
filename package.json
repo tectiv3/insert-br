@@ -1,0 +1,15 @@
+{
+  "name": "insert-br",
+  "main": "./lib/insert-br",
+  "version": "0.0.1",
+  "description": "Inserts <br> with ctrl+enter",
+  "activationCommands": {
+    "atom-workspace": "insert-br:insert"
+  },
+  "repository": "https://github.com/tectiv3/insert-br",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "dependencies": {}
+}
